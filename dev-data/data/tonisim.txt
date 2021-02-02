@@ -1,0 +1,96 @@
+Airport:: name: Chateau Bougon Airport code: NTE city: Nantes
+Country:: name:  France code:  FR
+
+Airport:: name: All Berlin Airports code: BERL city: Berlin
+Country:: name:  Germany code:  DE
+
+Airport:: name: All Belgrade Airports code: BELI city: Belgrad
+Country:: name:  Serbia code:  RS
+Airport:: name: All Prague Airport code: PRAG city: Prague
+Country:: name:  Czech Republic code:  CZ
+Airport:: name: Vienna Schwechat International Airport code: VIE city: Vienna
+Country:: name:  Austria code:  AT
+Airport:: name: Zendek Airport code: KTW city: Katowice
+Country:: name:  Poland code:  PL
+Airport:: name: All Berlin Airports code: BERL city: Berlin
+Country:: name:  Germany code:  DE
+Airport:: name: Topoli Airport code: VAR city: Varna
+Country:: name:  Bulgaria code:  BG
+Airport:: name: Luqa Airport code: MLA city: Luqa
+Country:: name:  Malta code:  MT
+Airport:: name: Euroairport Basel-Mulhouse-Freiburg code: BSL city: Bale Mulhouse
+Country:: name:  France code:  FR
+Airport:: name: Franz-Josef-Strauss Airport code: MUC city: Munich
+Country:: name:  Germany code:  DE
+Airport:: name: Thessaloniki Airport code: SKG city: Thessaloniki
+Country:: name:  Greece code:  GR
+Airport:: name: All Paris Airports code: PARI city: Paris
+Country:: name:  France code:  FR
+Airport:: name: All Milano Airports code: MILA city: Milano
+Country:: name:  Italy code:  IT
+Airport:: name: Vrazhdebna Airport code: SOF city: Sofia
+Country:: name:  Bulgaria code:  BG
+Airport:: name: Schiphol Airport code: AMS city: Amsterdam
+Country:: name:  Netherlands code:  NL
+Airport:: name: Bourgas Airport code: BOJ city: Burgas
+Country:: name:  Bulgaria code:  BG
+Airport:: name: Dublin Airport code: DUB city: Dublin
+Country:: name:  Ireland code:  IE
+Airport:: name: Otopeni Airport code: OTP city: Bucharest
+Country:: name:  Romania code:  RO
+Airport:: name: All Berlin Airports code: BERL city: Berlin
+Country:: name:  Germany code:  DE
+Airport:: name: Barcelona International Airport code: BCN city: Barcelona
+Country:: name:  Spain code:  ES
+Airport:: name: Naples International Airport code: NAP city: Napoli
+Country:: name:  Italy code:  IT
+Airport:: name: Blagnac Airport code: TLS city: Toulouse
+Country:: name:  France code:  FR
+Airport:: name: Malpensa International Airport code: MXP city: Milan
+Country:: name:  Italy code:  IT
+Airport:: name: Timisoara Northeast Airport code: TSR city: Timisoara
+Country:: name:  Romania code:  RO
+Airport:: name: Iasi North Airport code: IAS city: Iasi
+Country:: name:  Romania code:  RO
+Airport:: name: Barajas Airport code: MAD city: Madrid
+Country:: name:  Spain code:  ES
+Airport:: name: Geneva Airport code: GVA city: Geneva
+Country:: name:  Switzerland code:  CH
+Airport:: name: Marco Polo International Airport code: VCE city: Venezia
+Country:: name:  Italy code:  IT
+Airport:: name: Lyon Airport code: LYS city: Lyon
+Country:: name:  France code:  FR
+Airport:: name: Okecie International Airport code: WAW city: Warsaw
+Country:: name:  Poland code:  PL
+Airport:: name: Turnisor Airport code: SBZ city: Sibiu
+Country:: name:  Romania code:  RO
+Airport:: name: Ferihegy Airport code: BUD city: Budapest
+Country:: name:  Hungary code:  HU
+Airport:: name: Zurich International Airport code: ZRH city: Zurich
+Country:: name:  Switzerland code:  CH
+Airport:: name: All Paris Airports code: PARI city: Paris
+Country:: name:  France code:  FR
+Airport:: name: Vilnius Airport code: VNO city: Vilnius
+Country:: name:  Lithuania code:  LT
+Airport:: name: All London Airports code: LOND city: London
+Country:: name:  United Kingdom code:  GB
+Airport:: name: Debrecen International Airport code: DEB city: Debrecen
+Country:: name:  Hungary code:  HU
+Airport:: name: Balice Airport code: KRK city: Krakow
+Country:: name:  Poland code:  PL
+Airport:: name: Nice-Cote d'Azur Airport code: NCE city: Nice
+Country:: name:  France code:  FR
+Airport:: name: Manchester International Airport code: MAN city: Manchester
+Country:: name:  United Kingdom code:  GB
+Airport:: name: Someseni Airport code: CLJ city: Cluj-Napoca
+Country:: name:  Romania code:  RO
+Airport:: name: Bordeaux Airport code: BOD city: Bordeaux
+Country:: name:  France code:  FR
+Airport:: name: Riga Airport code: RIX city: Riga
+Country:: name:  Latvia code:  LV
+Airport:: name: Lisbon Airport code: LIS city: Lisbon
+Country:: name:  Portugal code:  PT
+Airport:: name: All London Airports code: LOND city: London
+Country:: name:  United Kingdom code:  GB
+
+Process finished with exit code 0

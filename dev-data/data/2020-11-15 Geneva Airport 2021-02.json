@@ -1,0 +1,1354 @@
+[
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-01",
+        "return_date": "2021-02-04",
+        "price": 335.59542074,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-01",
+        "return_date": "2021-02-05",
+        "price": 335.59542074,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-01",
+        "return_date": "2021-02-07",
+        "price": 703.7358437360001,
+        "label": 1,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-04",
+        "return_date": "2021-02-07",
+        "price": 645.9329857360001,
+        "label": 1,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-04",
+        "return_date": "2021-02-08",
+        "price": 250.66906992399998,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-05",
+        "return_date": "2021-02-08",
+        "price": 250.66906992399998,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-05",
+        "return_date": "2021-02-11",
+        "price": 277.79256274,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-07",
+        "return_date": "2021-02-11",
+        "price": 277.79256274,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-07",
+        "return_date": "2021-02-12",
+        "price": 500.6166007239999,
+        "label": 3,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-08",
+        "return_date": "2021-02-11",
+        "price": 261.84694674,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-08",
+        "return_date": "2021-02-12",
+        "price": 484.67098472399994,
+        "label": 3,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-08",
+        "return_date": "2021-02-14",
+        "price": 490.48316175599996,
+        "label": 3,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-11",
+        "return_date": "2021-02-14",
+        "price": 506.428777756,
+        "label": 2,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-11",
+        "return_date": "2021-02-15",
+        "price": 250.66906992399998,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-12",
+        "return_date": "2021-02-15",
+        "price": 250.66906992399998,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-12",
+        "return_date": "2021-02-18",
+        "price": 277.79256274,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-14",
+        "return_date": "2021-02-18",
+        "price": 277.79256274,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-14",
+        "return_date": "2021-02-19",
+        "price": 277.79256274,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-15",
+        "return_date": "2021-02-18",
+        "price": 261.84694674,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-15",
+        "return_date": "2021-02-19",
+        "price": 261.84694674,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-15",
+        "return_date": "2021-02-21",
+        "price": 261.84694674,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-18",
+        "return_date": "2021-02-21",
+        "price": 277.79256274,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-18",
+        "return_date": "2021-02-22",
+        "price": 264.230816332,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-19",
+        "return_date": "2021-02-22",
+        "price": 264.230816332,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-19",
+        "return_date": "2021-02-25",
+        "price": 277.79256274,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-21",
+        "return_date": "2021-02-25",
+        "price": 596.70488274,
+        "label": 2,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-21",
+        "return_date": "2021-02-26",
+        "price": 596.70488274,
+        "label": 2,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-22",
+        "return_date": "2021-02-25",
+        "price": 261.84694674,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-22",
+        "return_date": "2021-02-26",
+        "price": 261.84694674,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-22",
+        "return_date": "2021-02-28",
+        "price": 554.421095512,
+        "label": 2,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-25",
+        "return_date": "2021-02-28",
+        "price": 574.353115512,
+        "label": 2,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-25",
+        "return_date": "2021-03-01",
+        "price": 254.65547392399998,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-26",
+        "return_date": "2021-03-01",
+        "price": 250.66906992399998,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-26",
+        "return_date": "2021-03-04",
+        "price": 277.79256274,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-28",
+        "return_date": "2021-03-04",
+        "price": 311.67699674,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-28",
+        "return_date": "2021-03-05",
+        "price": 311.67699674,
+        "label": 4,
+        "source": "Easyjet",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-01",
+        "return_date": "2021-02-05",
+        "price": 388,
+        "label": 4,
+        "source": "SkyScanner",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-01",
+        "return_date": "2021-02-08",
+        "price": 335,
+        "label": 4,
+        "source": "SkyScanner",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-04",
+        "return_date": "2021-02-08",
+        "price": 276,
+        "label": 4,
+        "source": "SkyScanner",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-05",
+        "return_date": "2021-02-08",
+        "price": 276,
+        "label": 4,
+        "source": "SkyScanner",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-04",
+        "return_date": "2021-02-11",
+        "price": 304,
+        "label": 4,
+        "source": "SkyScanner",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-07",
+        "return_date": "2021-02-12",
+        "price": 524,
+        "label": 3,
+        "source": "SkyScanner",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-05",
+        "return_date": "2021-02-14",
+        "price": 561,
+        "label": 0,
+        "source": "SkyScanner",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-07",
+        "return_date": "2021-02-14",
+        "price": 373,
+        "label": 3,
+        "source": "SkyScanner",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-11",
+        "return_date": "2021-02-14",
+        "price": 530,
+        "label": 2,
+        "source": "SkyScanner",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-05",
+        "return_date": "2021-02-15",
+        "price": 276,
+        "label": 0,
+        "source": "SkyScanner",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-08",
+        "return_date": "2021-02-15",
+        "price": 260,
+        "label": 4,
+        "source": "SkyScanner",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-11",
+        "return_date": "2021-02-15",
+        "price": 276,
+        "label": 4,
+        "source": "SkyScanner",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-11",
+        "return_date": "2021-02-18",
+        "price": 335,
+        "label": 4,
+        "source": "SkyScanner",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-14",
+        "return_date": "2021-02-19",
+        "price": 305,
+        "label": 4,
+        "source": "SkyScanner",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-21",
+        "return_date": "2021-02-26",
+        "price": 624,
+        "label": 2,
+        "source": "SkyScanner",
+        "data_set": "Train"
+    },
+    {
+        "destination": {
+            "code": "GVA",
+            "name": "Geneva Airport",
+            "city": "Geneva",
+            "country": {
+                "code": "CH",
+                "name": "Switzerland"
+            }
+        },
+        "departure": {
+            "code": "TLV",
+            "name": "Ben Gurion Airport",
+            "city": "Tel Aviv",
+            "country": {
+                "code": "IL",
+                "name": "Israel"
+            }
+        },
+        "depart_date": "2021-02-07",
+        "return_date": "2021-02-28",
+        "price": 594,
+        "label": 0,
+        "source": "SkyScanner",
+        "data_set": "Train"
+    }
+]

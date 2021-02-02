@@ -1,0 +1,25 @@
+{
+   
+        "name": "Hotel NH Collection Milano Presiden",
+        "value_for_money": 7.8,
+        "staff": 9.0,
+        "facilities": 8.5,
+        "location": 9.2,
+        "free_wifi": 8.3,
+        "cleanliness": 8.8,
+        "score": 8.6,
+        "comfort": 8.7,
+        "link": "https://www.booking.com/hotel/it/nh-collection-milano-president.html",
+        "address": "Largo Augusto 10, Milan City Center, 20122 Milan, Italy",
+        "popular_facilities": [
+            "Parking",
+            "free_wifi",
+            "Airport shuttle",
+            "Pet friendly",
+            "Family rooms",
+            "Non-smoking rooms",
+            "Tea/Coffee Maker in All Rooms",
+            "Bar"
+        ]
+    }
+   
